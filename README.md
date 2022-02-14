@@ -1,6 +1,6 @@
 # All credits go to Enzo Ustariz whose course is available on Udemy : "coding 10 projects with React".
 
-this project is deployed at : [React-Infinite-Gallery]() <br>
+this project is deployed at : [React-Infinite-Gallery](https://react-infinite-gallery-enzo-udemy-cursus.vercel.app/) <br>
 the objective of this exercise was to learn how to use en API with react and how to  "to do many things"/play with an API.
 
 ## Getting Started with Create React App
